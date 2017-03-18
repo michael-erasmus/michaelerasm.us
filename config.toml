@@ -1,0 +1,5 @@
+baseurl = "http://michaelerasm.us/"
+languageCode = "en-us"
+title = "The Blog of Michael Erasmus"
+[params]
+  dateFormat = "15:04:05 on Mon Jan _2 2006"
