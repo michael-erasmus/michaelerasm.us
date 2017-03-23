@@ -1,10 +1,9 @@
 +++
-date = "2017-03-22T19:12:22-07:00"
+date = "2017-03-23T16:50:00-07:00"
 title = "A machine that generates money with pandas-datareader and Prophet"
-draft = true
+draft = false
 
 +++
-
 
 ### What is this?
 
