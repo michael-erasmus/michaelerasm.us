@@ -1,5 +1,24 @@
 baseurl = "http://michaelerasm.us/"
 languageCode = "en-us"
-title = "The Blog of Michael Erasmus"
+title = "michaelerasm.us"
+subtitle = "Michael Erasmus"
+disqusShortname = "michaelerasm-us"
+
 [params]
   dateFormat = "15:04:05 on Mon Jan _2 2006"
+  comments = true
+
+[Author]
+  name = "Michael Erasmus"
+  github = "michael-erasmus"
+  twitter = "michael_erasmus"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/page/about/"
+  weight = 3
