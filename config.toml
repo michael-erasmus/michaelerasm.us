@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "michaelerasm.us"
 subtitle = "Michael Erasmus"
 disqusShortname = "michaelerasm-us"
+theme = "beautifulhugo"
 
 [params]
   dateFormat = "15:04:05 on Mon Jan _2 2006"
